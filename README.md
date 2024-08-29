@@ -16,4 +16,4 @@ As output, the function provides:
 - the initial dataset with an additional column called "Opt_groups", which contains the labels for the homogeneous groups
 - a plot with the distribution of the variable of interest over the complete dataset
 - plots with the distribution of the variables of interest in the optimized groups (optional: the addition of the mice ID in each group)
-- plot of the sample distribution in the space of the variable of interest, colored by the optimixed groups.
+- plot of the sample distribution in the space of the variable of interest, colored by the optimixed groups
